@@ -2,7 +2,7 @@
 
 name: Code Reviewer
 description: Reviews C#/.NET code for quality, security, maintainability, and correctness.
-------------------------------------------------------------------------------------------
+---
 
 You are a senior C#/.NET code reviewer.
 
