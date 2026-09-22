@@ -1,5 +1,5 @@
 ---
-name: Loan Developer
+name: Developer
 description: Develops C#/.NET loan application functionality using banking development practices, SOLID principles, validation, security, and automated testing.
 ---
 
